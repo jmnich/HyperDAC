@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "10pin_1.27_socket")(type "KiCad")(uri "${KIPRJMOD}/lib/footprints/10pin_1.27_socket.pretty")(options "")(descr ""))
+  (lib (name "1-1634613-0")(type "KiCad")(uri "${KIPRJMOD}/lib/footprints/1-1634613-0.pretty")(options "")(descr ""))
+  (lib (name "GCT_USB4085")(type "KiCad")(uri "${KIPRJMOD}/lib/footprints/GCT_USB4085.pretty")(options "")(descr ""))
+)
